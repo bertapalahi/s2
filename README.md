@@ -1,1 +1,3 @@
 # s2
+
+In this new seminar .... soon ....
