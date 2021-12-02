@@ -1,5 +1,16 @@
 # s2
 
+The main is the following:
+
+[1] show macroblocks and motion vectors: shows the video and their macroblocks and motion vectors
+
+[2] create a BBB container
+
+[3] read the tracks
+
+[4] print subtitles
+
+
 Some references used in this seminar:
 
 python classes: https://docs.python.org/3/tutorial/classes.html
